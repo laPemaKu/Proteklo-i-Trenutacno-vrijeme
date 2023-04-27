@@ -1,0 +1,11 @@
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\Proteklo i tekuce vrijeme.exe.config
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\Proteklo i tekuce vrijeme.exe
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\Proteklo i tekuce vrijeme.pdb
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.AssemblyReference.cache
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo_i_tekuce_vrijeme.Form1.resources
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo_i_tekuce_vrijeme.Properties.Resources.resources
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.GenerateResource.cache
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.exe
+C:\Users\kukec\source\repos\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.pdb
